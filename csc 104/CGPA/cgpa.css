@@ -1,0 +1,7 @@
+.PRODUCT h1{
+     text-align: center;
+     flex-direction: column;
+     margin: auto;
+     display: flex;
+     
+}
